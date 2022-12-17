@@ -3,9 +3,7 @@
 </a></p>
 
 
-<p align="center">
-  
-  
-[Donare](https://www.redemptorismatercosenza.com/donazioni/it-IT)
+<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;"
+[Donare](https://www.redemptorismatercosenza.com/donazioni/it-IT)>
 
 
