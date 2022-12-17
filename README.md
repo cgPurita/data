@@ -3,7 +3,7 @@
 </a></p>
 
 
-<p><a href="https://www.mozilla.org/pt-BR/">Donare</a>.
-</p>
+
+[Donare](https://www.redemptorismatercosenza.com/donazioni/it-IT)
 
 
