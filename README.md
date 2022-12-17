@@ -4,6 +4,6 @@
 
 
 <p style="text-align: center;">
-[Donare](https://www.redemptorismatercosenza.com/donazioni/it-IT)>
+[Donare](https://www.redemptorismatercosenza.com/donazioni/it-IT)
 
 
